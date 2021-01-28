@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "老男孩",
+        "album": "父亲",
+        "singer": "筷子兄弟",
+        "duration": 304,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "他不懂",
+        "album": "爱，不解释",
+        "singer": "张杰",
+        "duration": 292,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "小幸运",
+        "album": "自定义",
+        "singer": "小曲儿",
+        "duration": 150,
+        "isLike": false
+    }
+
+]
